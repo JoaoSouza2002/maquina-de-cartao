@@ -17,4 +17,5 @@ match value:
         print('Essa não é uma opção')
         quit()
 print(f'\fvocê escolheu a forma de pagamento: {option}\n com o desconto: {price*descount}\n o valor total a ser pago é de: {(price - price*descount)}')
+#a
 
